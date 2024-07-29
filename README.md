@@ -90,3 +90,6 @@ Analyze sales distribution across categories and types to tailor offerings to cu
 
 ### Conclusion
 By following this guide, you can leverage Excel's powerful data analysis tools to gain actionable insights into your coffee shop's sales performance. The results can help you make informed decisions to drive growth and enhance customer satisfaction.
+
+
+![coffeeshop](https://github.com/user-attachments/assets/c2f0a1bc-f8ef-4de6-903d-25c7c39a329a)
